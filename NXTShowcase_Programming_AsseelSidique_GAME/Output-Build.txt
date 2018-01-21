@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: GameTest, Configuration: Debug x64 ------
+1>  GameTest.cpp
+1>  GameTest.vcxproj -> C:\Users\Asseel\Desktop\GameTest\x64\Debug\GameTest.exe
+1>  C:\Users\Asseel\Desktop\GameTest\\GameTest\glut\bin\x64\freeglut.dll
+1>  1 File(s) copied
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

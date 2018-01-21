@@ -1,0 +1,8 @@
+﻿  MenuScene.cpp
+c:\users\sidique\desktop\projects\nxtshowcase_programming_asseelsidique\nxtshowcase_programming_asseelsidique_game\gametest\Vector.h(108): warning C4244: 'return': conversion from 'double' to 'real', possible loss of data
+c:\users\sidique\desktop\projects\nxtshowcase_programming_asseelsidique\nxtshowcase_programming_asseelsidique_game\gametest\Vector.h(154): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sidique\desktop\projects\nxtshowcase_programming_asseelsidique\nxtshowcase_programming_asseelsidique_game\gametest\Vector.h(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  app.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  GameTest.vcxproj -> C:\Users\Sidique\Desktop\Projects\NXTShowcase_Programming_AsseelSidique\NXTShowcase_Programming_AsseelSidique_GAME\x64\Debug\GameTest.exe
+  C:\Users\Sidique\Desktop\Projects\NXTShowcase_Programming_AsseelSidique\NXTShowcase_Programming_AsseelSidique_GAME\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
